@@ -1,0 +1,3 @@
+mediapipe==0.10.11
+pyalsaaudio==0.10.0
+opencv-python==4.10.0.84
