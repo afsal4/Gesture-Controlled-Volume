@@ -1,4 +1,4 @@
-# Volume Control Application
+# Gesture-Controlled-Volume
 
 This application allows you to control the system volume using hand gestures. It utilizes **OpenCV** for video capture and processing and **MediaPipe** for hand tracking. The application is straightforward to use and can be run with a single command.
 
@@ -7,8 +7,8 @@ This application allows you to control the system volume using hand gestures. It
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/afsal4/Gesture-Controlled-Volume.git
+cd Gesture-Controlled-Volume
 
 pip install -r requirements.txt
 
