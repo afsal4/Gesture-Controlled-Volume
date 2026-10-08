@@ -2,6 +2,10 @@
 
 This application allows you to control the system volume using hand gestures. It utilizes **OpenCV** for video capture and processing and **MediaPipe** for hand tracking. The application is straightforward to use and can be run with a single command.
 
+<p align="center">
+  <img src="gif.gif" alt="Gesture Controlled Volume Demo">
+</p>
+
 ## Installation
 
 Clone the repository and navigate to the project directory:
